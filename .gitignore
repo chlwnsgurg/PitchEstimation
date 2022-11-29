@@ -1,0 +1,6 @@
+# ignore nsynth dataset
+nsynth*/
+
+# ignore audio file
+*.wav
+*.mp3
